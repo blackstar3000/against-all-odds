@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.against-all-odds" name="[COLOR=gold]Against All Odds[/COLOR]" version="1.0" provider-name="Boss">
+	<extension point="xbmc.addon.repository" name="[COLOR=gold]Against All Odds[/COLOR]">
+<dir>
+	<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+	<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+</dir>
+		<!-- <info compressed="false">https://raw.githubusercontent.com/blackstar3000/repository.against-all-odds/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/blackstar3000/repository.against-all-odds/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/blackstar3000/repository.against-all-odds/master/zips/</datadir> -->
+		<info compressed="false">https://raw.githubusercontent.com/blackstar3000/repository.against-all-odds/master/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/blackstar3000/repository.against-all-odds/master/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/blackstar3000/repository.against-all-odds/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[COLOR=gold]Against All Odds[/COLOR]</summary>
+		<description lang="en">[COLOR=gold]Against All Odds[/COLOR]</description>
+		<genre>movies,music</genre>
+	</extension>
+</addon>
